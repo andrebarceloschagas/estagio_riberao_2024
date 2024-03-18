@@ -4,7 +4,7 @@ Repositório de candidatura ao estágio.
 
 A linguagem escolhida para desenvolver o questionário foi **Python**.
 
-## Questão 1
+## Questão 1 [Código](https://github.com/andrebarceloschagas/estagio_riberao_2024/blob/main/questao_1.py)
 
 Observe o trecho de código abaixo:
 
@@ -40,7 +40,7 @@ Resposta: **91**
 
     print(soma) # A saída será 91
 
-## Questão 2
+## Questão 2 [Código](https://github.com/andrebarceloschagas/estagio_riberao_2024/blob/main/questao_2.py)
 
 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
@@ -62,7 +62,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
     else:
         print(f"O número {numero_informado} NÃO PERTENCE à sequência de Fibonacci.")
 
-## Questão 3
+## Questão 3 [Código](https://github.com/andrebarceloschagas/estagio_riberao_2024/blob/main/questao_3.py)
 
 Descubra a lógica e complete o próximo elemento:  
 
@@ -138,7 +138,7 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 
     Eu devo ligar o primeiro interruptor e esperar um pouco. Desligo o primeiro e ligo o segundo interruptor. Vou até a sala. Se a lâmpada estiver desligada e quente: corresponde ao primeiro interruptor. Se a lâmpada estiver acesa: corresponde segundo interrupitor. E se a lâmpada estiver apagada e fria: corresponde ao terceiro interrupitor.
 
-## Questão 5
+## Questão 5 [Código](https://github.com/andrebarceloschagas/estagio_riberao_2024/blob/main/questao_5.py)
 
 Escreva um programa que inverta os caracteres de um string.
 
